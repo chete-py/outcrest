@@ -180,7 +180,7 @@ with tab1:
         st.download_button(
                 label=f"Download {reg}'s_premium_quote(HTML)",
                 data=html_report.encode('utf-8'),
-                file_name=f"{reg}_quote.html",
+                file_name=f"{reg}_DebitNote.html",
                 mime="text/html"
             )
 
