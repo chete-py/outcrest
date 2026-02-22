@@ -111,7 +111,7 @@ with tab1:
                         <th colspan="2">
                             Insured: {name}<br>
                             KRA PIN: {kra_pin} <br>
-                            INVOICE NO:0001 <br>
+                            INVOICE NO:GSK/{reg}/{date}<br>
                             Risk Carrier: {underwriter}<br>
                             Risk Type: MOTOR PRIVATE<br>
                             Vehicle Registration: {reg}
